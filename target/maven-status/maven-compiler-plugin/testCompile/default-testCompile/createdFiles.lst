@@ -1,0 +1,11 @@
+com\test\pojo\Support.class
+com\test\api\RestAssurred.class
+com\test\api\GetTest.class
+com\test\api\ResponseSpecification.class
+com\test\api\ResponseGet.class
+com\test\api\UsersTest.class
+com\test\pojo\Datum.class
+com\test\api\PostTest_1.class
+com\test\api\RequestSpecification.class
+com\test\pojo\User.class
+com\test\pojo\Users.class
