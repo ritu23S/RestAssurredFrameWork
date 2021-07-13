@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.test.api.ResponseSpecification"/>
+      <class name="com.test.api.PostTest_1"/>
+      <class name="com.test.api.UsersTest"/>
+      <class name="com.test.api.RestAssurred"/>
+      <class name="com.test.api.GetTest"/>
+      <class name="com.test.api.RequestSpecification"/>
+      <class name="com.test.api.ResponseGet"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
